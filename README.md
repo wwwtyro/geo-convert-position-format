@@ -19,7 +19,7 @@ npm install geo-convert-position-format
 var geoconv = require('geo-convert-position-format');
 ```
 
-### `geoconv.convert(positions, targetFormat, stride)`
+#### `geoconv.convert(positions, targetFormat, stride)`
 Returns a copy of  `positions` converted from their current format into
 `targetFormat` with stride `stride`.
 
