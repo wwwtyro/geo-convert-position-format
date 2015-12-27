@@ -21,7 +21,7 @@ var geoconv = require('geo-convert-position-format');
 
 #### `geoconv.convert(positions, targetFormat, stride)`
 Returns a copy of  `positions` converted from their current format into
-`targetFormat` with stride `stride`.
+`targetFormat` with stride `stride` if applicable.
 
 `targetFormat` can be one of:
 
