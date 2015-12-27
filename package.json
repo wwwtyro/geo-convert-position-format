@@ -18,5 +18,13 @@
   },
   "devDependencies": {
     "nodeunit": "^0.9.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwwtyro/geo-convert-position-format.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wwwtyro/geo-convert-position-format/issues"
+  },
+  "homepage": "https://github.com/wwwtyro/geo-convert-position-format#readme"
 }
