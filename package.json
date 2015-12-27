@@ -1,0 +1,22 @@
+{
+  "name": "geo-convert-position-format",
+  "version": "1.0.0",
+  "description": "Converts between common geometry position formats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "keywords": [
+    "stackgl",
+    "geometry"
+  ],
+  "author": "Rye Terrell",
+  "license": "Unlicense",
+  "dependencies": {
+    "ndarray": "^1.0.18",
+    "geo-identify-position-format": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodeunit": "^0.9.1"
+  }
+}
